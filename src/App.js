@@ -15,10 +15,10 @@ function App() {
                 <img src="img/btn_instagram.png"  alt="btn_instagram" className="btn_instagram"/>
                 <div className="line_login"></div>
                 <div className="btn_LOGIN_box">
-                    <a className="LOGIN" href="#">LOGIN</a>
+                    <p className="LOGIN" >LOGIN</p>
                 </div>
                 <div className="btn_JOIN_box">
-                    <a className="JOIN" href="#">JOIN</a>
+                    <p className="JOIN" >JOIN</p>
                 </div>
             </button>
 
